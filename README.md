@@ -11,3 +11,5 @@ It is a slightly modified (as-of-yet) version of the original, compiled to .exe 
 
 Stay-tuned for updates that enable functionality!
 
+### If you encounter "Access Denied" select to "Run As Administrator" or double-check that permissions are "0755".
+
