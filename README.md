@@ -13,3 +13,4 @@ Stay-tuned for updates that enable functionality!
 
 ### If you encounter "Access Denied" select to "Run As Administrator" or double-check that permissions are "0755".
 
+![HRCloud2-Client(Ported)](https://raw.githubusercontent.com/zelon88/HRCloud2-Client/35d7671371af0984c6ec53b843ba9618b895ec5a/src/ftpClient/Resources/Screenshote/HRCloud2-Client(Ported).png)
