@@ -1,7 +1,7 @@
 # HRCloud2-Client
 A cross-platform desktop client for the HRCloud2 Platform.
 
-## This repo was forked from https://github.com/jacklam718/ftp!!!
+### This repo was forked from https://github.com/jacklam718/ftp!!!
 
 ## A WIP cross-platform Client (Upload/Download) for the HRCloud2 Platform
 
