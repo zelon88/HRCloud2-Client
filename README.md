@@ -9,6 +9,15 @@ The HRCloud2-Client App was ported from Gihub user Jacklam718/ftp on 5/3/2017.
 
 It is a slightly modified (as-of-yet) version of the original, compiled to .exe for cross-platform support from interpreted Python to a compiled binary that can be run on many platforms with PyInstaller.
 
+The intention for this project will be:
+
+1. To modify the original application to use SFTP and custom user-specific HRCloud2 API keys for user auth and file transfer..
+2. To enable the original application to work on multiple desktop platforms with minimal dependency requirements.
+3. To enable the original application to sync files between locations. Possibly create Windows tasks and/or cron's to automate these for the user.
+4. To enable the original application to use custom CuRL requests to perform HRC2 cloudCore ops (convert, arch, dearch, rename, PDFwork, ect...) on local and remote user files through the server.
+5. Log all important activities. 
+6. Perform all required tasks with standard user permissions and protocol practices that won't get developers fired. 
+
 Stay-tuned for updates that enable functionality!
 
 ### If you encounter "Access Denied" select to "Run As Administrator" or double-check that permissions are "0755".
